@@ -22,6 +22,16 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **purveesingh8121@gmail.com**
 
+<h3 align="left">Featured projects — live demos:</h3>
+
+| Project | Live demo | What it does |
+| --- | --- | --- |
+| **Credit Risk Decision Engine** | [▶ Open](https://purvee25.github.io/credit-risk-engine/) | Predicts loan default from traditional + behavioral features to widen credit access for thin-file borrowers. Compared Logistic Regression / Random Forest / XGBoost, AUC-PR 0.52 → 0.67, with SHAP behind every decision. <sub>Click *Launch demo* → *View demo (read-only)*.</sub> |
+| **LoyaltyPro — Churn Prediction** | [▶ Open](https://purvee25.github.io/loyaltypro-dashboard/) | Random Forest churn model (99.5% test accuracy) over 2,000 customers and 9,800+ transactions. The trained forest is exported to JSON and scored in your browser — real predictions, no server. |
+| **Resume Shortlister** | [▶ Open](https://purvee25.github.io/resume-shortlister/) | Ranks a batch of resumes against job criteria with deterministic, auditable scoring. PDF/DOCX parsing runs client-side, so files never leave your machine. |
+| **Autonomous Data Analyst Agent** | [Repo](https://github.com/Purvee25/data-analyst-agent) | Cleans messy CSVs and surfaces insights, with a second independent LLM critic validating every finding before you see it. Runs on Claude, Groq or local Ollama. 102 tests, CI, Docker. |
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/purvsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="purvsingh" height="30" width="40" /></a>
