@@ -167,8 +167,6 @@ Cleans messy CSVs and surfaces insights, with a second independent LLM **critic*
 
 ---
 
-<div align="center">
-
 ### 💬 Let's connect!
 
 *CSE (AI & ML) student at SRMIST · Open to collaborations and internships*
