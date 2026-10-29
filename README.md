@@ -143,12 +143,10 @@ Cleans messy CSVs and surfaces insights, with a second independent LLM **critic*
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Purvee25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purvee25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Purvee25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Purvee25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=8"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Purvee25&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=ff6b6b&currStreakLabel=38bdf8" alt="streak stats"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Purvee25&custom_title=Contribution%20Graph&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ff6b6b&area=true&area_color=38bdf8&hide_border=true" alt="activity graph" />
+<img src="https://streak-stats.demolab.com/?user=Purvee25&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=ff6b6b&currStreakLabel=38bdf8" alt="streak stats"/>
 
 </div>
 
