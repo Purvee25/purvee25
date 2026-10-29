@@ -143,8 +143,11 @@ Cleans messy CSVs and surfaces insights, with a second independent LLM **critic*
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Purvee25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Purvee25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=8"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Purvee25&theme=tokyonight" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Purvee25&theme=tokyonight" height="160em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Purvee25&theme=tokyonight" height="160em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Purvee25&theme=tokyonight" height="160em"/>
 
 <img src="https://streak-stats.demolab.com/?user=Purvee25&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=ff6b6b&currStreakLabel=38bdf8" alt="streak stats"/>
 
